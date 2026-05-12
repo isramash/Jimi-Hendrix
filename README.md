@@ -79,3 +79,12 @@ project-folder/
 ├── index.html
 ├── uppgift.css
 └── README.md
+``` 
+
+--- 
+
+# Notes
+
+This project was originally developed as a university assignment with restrictions on the number of CSS classes allowed.
+
+Some layout decisions and selector structures were intentionally designed to meet those assignment requirements.
